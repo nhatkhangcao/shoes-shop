@@ -1,0 +1,101 @@
+.shopping-container{
+	padding-top: 50px;
+}
+
+.shopping-info{
+	text-align: center;
+	height: auto;
+	margin: 0 auto;
+	width: 460px;
+	text-align: center;
+    padding-top: 30px;
+
+	
+    
+	
+}
+
+
+.shopping-info input{
+	height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1.5px solid gray;
+    font-weight:600;
+	
+}
+.shopping-cart{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+}
+img {
+
+    width: 20vh;
+    height: auto;
+}
+.shopping-cart h1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.shopping-cart table{
+    width: 100%;
+    padding: 10px 40px 30px 40px;
+ 
+}
+/* .shopping-cart table thead tr th:first-child{
+    text-align: left;   
+} */
+.shopping-cart table tr td{
+    border-bottom: 2px solid rgb(210, 210, 210);
+    padding: 20px 0px 20px 0px;
+     align-items: center;
+    
+
+}
+.btn-delete{
+    width: 10%;
+	height: 60px;
+	background: #000;
+	border: 1px solid #000;
+    border-radius: 30px;
+	font-size: 1rem;
+	font-weight: 400;
+	letter-spacing: 2px;
+	color: #fff;
+	outline: none;
+	cursor: pointer;
+}
+
+.shopping-func{
+
+	text-align: center;
+}
+
+.shopping-fuc_btn{
+    
+	width: 10%;
+	
+	height: 60px;
+	background: #000;
+	border: 1px solid #000;
+    border-radius: 30px;
+	font-size: 1rem;
+	font-weight: 400;
+	letter-spacing: 2px;
+	color: #fff;
+	outline: none;
+	cursor: pointer;
+	
+	
+	
+}
+
+.shopping-fuc_btn:hover {
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	-webkit-transform: scale(1.03);
+	transform: scale(1.03);
+}
+
